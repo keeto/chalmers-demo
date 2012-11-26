@@ -1,0 +1,9 @@
+{
+  "BundleType": "Application",
+  "BundleVersion": "0.1.0",
+  "BundleIdentifier" : "demo",
+  "VendorIdentifier" : "me.keeto",
+  "Dependencies": {
+    "api": "1.0.0"
+  }
+}
